@@ -1,0 +1,6 @@
+Script started on Fri Mar 10 17:12:45 2017
+[?1034hbash-3.2$ xit
+bash: xit: command not found
+bash-3.2$ ls
+db.sqlite3	manage.py	mysite		myvenv		typescript
+bash-3.2$ 
